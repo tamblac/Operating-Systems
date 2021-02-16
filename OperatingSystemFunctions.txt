@@ -6,3 +6,6 @@ Another function of an Operating System is coordinating tasks.
 The OS determines the order in which tasks are processed by the processor.
 These tasks include receiving data from an input device, processing instructions, sending info to an output device and transferring items between memory and storage.
 While waiting for devices to be idle, the OS commits items to buffers in memory. Once the device becomes idle, the OS will then transer the item or instruction to the device.
+Another function of an OS is updating OS software.
+If programs and OS are set to automatic update, the OS will check to see if new updates are available and then download and install.
+The OS automatic update feature can be set to fully automatic, or alerted update (advises user an update is available)
