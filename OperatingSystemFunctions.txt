@@ -1,0 +1,4 @@
+Operating Systems manage programs.
+The multitasking OS allows two or more programs or apps to reside in memory at once
+When multiple programs or apps are running, one is in the foreground and others are in the background.
+The one in the foreground is the current active program and will typically be displayed on the screen.
